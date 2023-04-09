@@ -1,12 +1,5 @@
-# Lessons-from-SVB-Failures-Bank-Solvency-Stress-Test
-According to the excellent article written by Professor Stephen Cecchetti, the SVB collapse revealed four
-failures: risk management, market discipline, supervision, and resolution. I very much agree with this
-conclusion and decided to conduct further analysis based on the stress test models to see if we as investors can
-filter out those banks that need to be vigilant.
+# SVB Failures: Liquidity Stress Test and Interest Rate Risk Analysis
 
+The collapse of Silicon Valley Bank (SVB) can mainly be boiled down to two reasons: Liquidity Risk and Interest Rate Risk. Why did the SVB bank run happen? That is because the depositors had lost confidence in the bank and were worried that they would not be able to get all their deposits back. Where did this concern come from? Why didn't the public trust SVB any more? Data helped us unveil the truth of the failure in SVB.
 
-The failure of Silicon Valley Bank and Signature Bank can be sensed from the simple chart and scenario tests.
-As the average market decline during the Covid was around 10%, Silicon Valley Bank obviously lacked the
-capital to satisfy the depositors’ needs and absorbed the potential losses. Therefore, SVB shut down on March
-10, 2023. Fueled by the panic in the bank run and crypto uncertainty, Signature Bank became the second to fail
-two days later.
+The lesson from the SVB bank run emphasizes the importance of managing liquidity risk and interest rate risks. With healthy and controllable internal systems, no matter how dark the economy will be, the bank still has the ability to go through.What’s more, regulators should scrutinize banks' financial situations more carefully and rigorously and conduct stress tests to verify their resilience to prevent such cases from happening again.
